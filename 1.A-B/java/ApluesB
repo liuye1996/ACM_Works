@@ -1,0 +1,30 @@
+/*
+A+B Problem
+时间限制：3000 ms  |  内存限制：65535 KB
+难度：0
+描述
+此题为练手用题，请大家计算一下a+b的值.
+输入
+输入两个数，a,b
+输出
+输出a+b的值
+样例输入
+2 3
+样例输出
+5
+*/
+
+import java.io.*;
+import java.util.*;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		Scanner cin = new Scanner(System.in);
+		int a = cin.nextInt();
+		int b = cin.nextInt();
+		System.out.print(a+b);
+	}
+
+}
