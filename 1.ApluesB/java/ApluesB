@@ -20,7 +20,6 @@ import java.util.*;
 public class test {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
 		Scanner cin = new Scanner(System.in);
 		int a = cin.nextInt();
 		int b = cin.nextInt();
